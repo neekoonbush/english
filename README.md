@@ -6,7 +6,7 @@ This is 27180631何晸洋's marketdown for computer english.
 ***
 ## 图片
 #### 目录中的图片
-![rose](C:\Users\Administrator\Desktop\amazing.png)
+![rose](./rose.png)
 #### 网络图片
 ![haizweiwang](https://manhua.acimg.cn/vertical/0/17_16_48_0e28c8aabf48e91d395689b5f6a7689f.jpg/420)
 ***
